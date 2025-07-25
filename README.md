@@ -12,7 +12,7 @@ This project implements a robust Monte Carlo simulation framework for industrial
 - **Conditional Probability**: Uses Schur complement for accurate conditional distributions
 - **LSTM Integration**: Ready-to-use data preparation for sequence prediction
 
-## Requirements
+## Requirements.
 ```bash
 Python 3.8+
 numpy
